@@ -1,0 +1,25 @@
+{
+  "name": "dk-webpage",
+  "version": "1.0.0",
+  "description": "Project 2 - Social Betting App",
+  "main": "server.js",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScribeDK/DK-Webpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScribeDK/DK-Webpage/issues"
+  },
+  "homepage": "https://github.com/ScribeDK/DK-Webpage#readme"
+}

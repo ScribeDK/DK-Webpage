@@ -1,0 +1,405 @@
+
+@media (min-width: 0px) and (max-width: 656px){
+	
+body {background-image: url("../images/dark_embroidery.png");
+	margin: 0;
+	padding: 0;
+	background-repeat: repeat;
+	background-color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 640px;
+	height: 100%;}
+	
+#Size{width: 640px;
+	overflow: hidden;}
+
+#MainBox{width: 640px;
+	overflow: auto;
+	min-height: 500px;
+	margin-bottom: 50px;}
+	
+#UpperSection{background-color: #ffffff;
+	height: 120px;
+	border-bottom: solid #cccccc;}
+	
+#LowerSection{background-color: #666666;
+	height: 73px;}
+
+#MainSection{width: 610px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	border: solid #cccccc;}
+
+#SideSection{width: 610px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	border: solid #cccccc;}
+
+#SubmitBtn{font-family:'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin: 10px;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #4aaaa5;
+	color: #ffffff;}
+	  
+#MyName {font-family:'Georgia', Times, Times New Roman, serif;
+	width: 640px;
+	text-align: center;
+	position: absolute;
+	font-size: 32px;
+	margin-top: 0px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding-top: 14px;
+	padding-bottom: 14px;}
+	
+#TealLine{background-color:#4aaaa5;
+	height: 6px;}
+
+#CopyRight{color: #ffffff;
+	font-size: 12px;
+	margin-left: 35%;
+	margin-top: 25px;
+	float: left;}
+	
+#PictureAbout{margin: 10px;
+	margin-left: 25%;}
+
+.ContactInfo{color: #777777;
+	font-size: 18px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;}
+	
+.InputBox{width: 560px;}
+
+.Links{float: right;
+	color: #777777;
+	font-size: 20px;
+	margin-top: 75px;
+	margin-right: 10%;
+	padding-right: 10%;
+	text-decoration: none;
+	border-right: solid #cccccc 1px;}
+	
+.Links-R{border-right: none;}
+
+.TextMain{color: #777777;
+	font-size: 18px;
+	margin-left: 10px;
+	margin-top: 20px;}
+
+.TextSection{font-family:'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	margin: 10px;
+	font-size: 28px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width: 275px;
+	margin-top: 170px;
+	position: absolute;
+	z-index: 2;}
+
+.TextSection-R{margin-left: 325px;}
+	
+.PictureLinks{float: left;
+	padding: 5px;
+	margin-bottom: 20px;
+	margin-left: 10px;}
+	
+.PictureSection{overflow: auto;
+	margin-bottom: 5px;}
+
+.PicturePortfolio{float:left;
+	position: relative;
+	margin: 10px;
+	z-index: 1;}
+	
+.PicturePortfolio-R{float:right;}
+	
+.Title{color: #4aaaa5;
+	font-size: 30px;
+	text-align: left;
+	border-bottom: solid #cccccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;}
+	
+.Title-1{text-align: left;}
+}
+
+@media (min-width: 657px) and (max-width: 770px){
+	
+body {background-image: url("../images/dark_embroidery.png");
+	margin: 0;
+	padding: 0;
+	background-repeat: repeat;
+	background-color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 768px;
+	height: 100%;}
+	
+#Size{width: 768px;
+	overflow: hidden;}
+
+#MainBox{overflow: auto;
+	min-height: 500px;
+	margin-bottom: 50px;}
+	
+#UpperSection{background-color: #ffffff;
+	width: 768px;
+	height: 73px;
+	border-bottom: solid #cccccc;}
+	
+#LowerSection{background-color: #666666;
+	width: 768px;
+	height: 73px;}
+
+#MainSection{width: 610px;
+	float: left;
+	margin-left: 65px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	border: solid #cccccc;}
+
+#SideSection{width: 610px;
+	float: left;
+	margin-left: 65px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	border: solid #cccccc;}
+
+#SubmitBtn{font-family:'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin: 10px;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #4aaaa5;
+	color: #ffffff;}
+	  
+#MyName {font-family:'Georgia', Times, Times New Roman, serif;
+	font-size: 23px;
+	margin-right: 490px;
+	margin-left: 40px;
+	margin-top: 0px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 20px;
+	padding-top: 23;
+	padding-bottom: 22px;}
+	
+#TealLine{background-color:#4aaaa5;
+	height: 6px;}
+
+#CopyRight{color: #ffffff;
+	font-size: 12px;
+	margin-left: 250px;
+	margin-top: 25px;
+	float: left;}
+	
+#PictureAbout{float: left;
+	margin: 10px;}
+
+.ContactInfo{color: #777777;
+	font-size: 18px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;}
+	
+.InputBox{width: 565px;}
+
+.Links{float: right;
+	color: #777777;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-right: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	border-right: solid #cccccc 1px;}
+	
+.Links-R{margin-right: 30px;
+	border-right: none;}
+
+.TextMain{color: #777777;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-left: 10px;}
+
+.TextSection{font-family:'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	margin: 10px;
+	font-size: 28px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width: 275px;
+	margin-top: 170px;
+	position: absolute;
+	z-index: 2;}
+
+.TextSection-R{margin-left: 319px;}
+	
+.PictureLinks{float: left;
+	margin: 10px;
+	margin-top:0px;}
+	
+.PictureSection{overflow: auto;
+}
+
+.PicturePortfolio{float:left;
+	position: relative;
+	margin: 10px;
+	z-index: 1;}
+	
+.PicturePortfolio-R{float:right;}
+	
+.Title{color: #4aaaa5;
+	font-size: 30px;
+	text-align: left;
+	border-bottom: solid #cccccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;}
+	
+.Title-1{text-align: left;}
+}
+
+@media (min-width: 771px){
+	
+body {background-image: url("../images/dark_embroidery.png");
+	margin: 0;
+	padding: 0;
+	background-repeat: repeat;
+	background-color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 960px;
+	height: 100%;}
+
+#Size{width: 960px;
+	overflow: hidden;}	
+	
+#MainBox{overflow: auto;
+	min-height: 500px;
+	margin-bottom: 50px;}
+	
+#UpperSection{background-color: #ffffff;
+	width: 960px;
+	height: 73px;
+	border-bottom: solid #cccccc;}
+	
+#LowerSection{background-color: #666666;
+	width: 960px;
+	height: 73px;}
+
+#MainSection{width: 610px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	border: solid #cccccc;}
+
+#SideSection{width: 250px;
+	float: left;
+	margin-left: 35px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	border: solid #cccccc;}
+
+#SubmitBtn{font-family:'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin: 10px;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #4aaaa5;
+	color: #ffffff;}
+	  
+#MyName {font-family:'Georgia', Times, Times New Roman, serif;
+	font-size: 32px;
+	margin-right: 590px;
+	margin-left: 40px;
+	margin-top: 0px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 20px;
+	padding-bottom: 15px;}
+	
+#TealLine{background-color:#4aaaa5;
+	height: 6px;}
+
+#CopyRight{color: #ffffff;
+	font-size: 12px;
+	margin-left: 365px;
+	margin-top: 25px;
+	float: left;}
+	
+#PictureAbout{float: left;
+	margin: 10px;}
+
+.ContactInfo{color: #777777;
+	font-size: 18px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;}
+	
+.InputBox{width: 565px;}
+
+.Links{float: right;
+	color: #777777;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-right: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	border-right: solid #cccccc 1px;}
+	
+.Links-R{margin-right: 30px;
+	border-right: none;}
+
+.TextMain{color: #777777;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-left: 10px;}
+
+.TextSection{font-family:'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	margin: 10px;
+	font-size: 28px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width: 275px;
+	margin-top: 170px;
+	position: absolute;
+	z-index: 2;}
+
+.TextSection-R{margin-left: 319px;}
+	
+.PictureLinks{float: left;
+	margin: 10px;}
+	
+.PictureSection{overflow: auto;
+	margin-bottom: 5px;}
+
+.PicturePortfolio{float:left;
+	position: relative;
+	margin: 10px;
+	z-index: 1;}
+	
+.PicturePortfolio-R{float:right;}
+	
+.Title{color: #4aaaa5;
+	font-size: 30px;
+	text-align: center;
+	border-bottom: solid #cccccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;}
+	
+.Title-1{text-align: left;}
+}
