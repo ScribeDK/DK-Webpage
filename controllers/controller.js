@@ -12,19 +12,19 @@ module.exports = function(app){
 		res.render('home');
 	});
 
-	app.get('/art', function(req,res) {
-		res.render('art');
+	app.get('/charity', function(req,res) {
+		res.render('charity');
 	});
 	
-	app.get('/character', function(req,res) {
-		res.render('character');
+	app.get('/characters', function(req,res) {
+		res.render('characters');
 	});
 	
 	app.get('/lillah', function(req,res) {
 		res.render('lillah');
 	});
 	
-	app.get('/bio', function(req,res) {
-		res.render('bio');
+	app.get('/biography', function(req,res) {
+		res.render('biography');
 	});
 }
