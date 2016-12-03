@@ -1,4 +1,4 @@
-body {background-color: black;
+body {background-color: #000000;
 	color: white;
 	margin: 0;
 	padding: 0;
@@ -20,9 +20,16 @@ body {background-color: black;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2px;
-	background-color: #cc6666;
+	background-color: #663333;
+	}
+.bio{
+	float: left;
+	margin-left: 5%;
 	}
 
+.sectionBio{overflow:auto;
+	clear: left;
+}
 	
 .center{text-align: center;}
 
