@@ -2,8 +2,8 @@ body {background-color: #000000;
 	color: white;
 	margin: 0;
 	padding: 0;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	}
+	font-family: "Arial Black", Gadget, sans-serif;
+}
 
 .menu{background-color: #330033;}
 
@@ -15,6 +15,22 @@ body {background-color: #000000;
 	margin-left: auto;
 	}
 
+.Cat{
+	width: 45%;
+	float: left;
+}
+.Text{
+	height: 500px;
+}
+
+.pictureSelf{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2px;
+	background-color: #669966;
+	}
+
 .pictureCat{
 	display: block;
 	margin-right: auto;
@@ -22,16 +38,34 @@ body {background-color: #000000;
 	padding: 2px;
 	background-color: #663333;
 	}
+	
 .bio{
-	float: left;
 	margin-left: 5%;
 	}
+.bioPicture{
+	float: left;
+	margin-right: 10px;
+	}
+
+.large{
+	font-size: large;
+}
+
+.myName{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: xx-large;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom:10px;
+}
 
 .sectionBio{overflow:auto;
 	clear: left;
 }
 	
-.center{text-align: center;}
+.center{
+	text-align: center;
+}
 
 .centerArtist{
 	font-size: small;
